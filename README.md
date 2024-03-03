@@ -1,19 +1,19 @@
-![Untitled](img/1.JPG)
+![Untitled](img/슬라이드1.PNG)
 
-![Untitled](img/2.JPG)
+![Untitled](img/슬라이드2.PNG)
 
-![Untitled](img/3.JPG)
+![Untitled](img/슬라이드3.PNG)
 
-![Untitled](img/4.JPG)
+![Untitled](img/슬라이드4.PNG)
 
-![Untitled](img/5.JPG)
+![Untitled](img/슬라이드5.PNG)
 
-![Untitled](img/6.JPG)
+![Untitled](img/슬라이드6.PNG)
 
-![Untitled](img/7.JPG)
+![Untitled](img/슬라이드7.PNG)
 
-![Untitled](img/8.JPG)
+![Untitled](img/슬라이드8.PNG)
 
-![Untitled](img/9.JPG)
+![Untitled](img/슬라이드9.PNG)
 
-![Untitled](img/10.JPG)
+![Untitled](img/슬라이드10.PNG)
